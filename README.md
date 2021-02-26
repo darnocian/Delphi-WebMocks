@@ -2,6 +2,7 @@
 ![Platform compatibility](https://img.shields.io/badge/platform-Linux64%20%7C%20macOS64%20%7C%20Win32%20%7C%20Win64-lightgrey)
 ![License](https://img.shields.io/github/license/appercept/Delphi-WebMocks)
 ![Lines of Code](https://tokei.rs/b1/github/appercept/Delphi-WebMocks)
+![Build Status](https://19ycxvxt6c.execute-api.eu-west-1.amazonaws.com/?revision=HEAD&platform=Win32&config=Debug&owner=darnocian&repo=Delphi-WebMocks)
 
 # WebMocks ![GitHub release (latest by date)](https://img.shields.io/github/v/release/appercept/Delphi-WebMocks) ![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/appercept/Delphi-WebMocks/latest?sort=semver) ![GitHub Release Date](https://img.shields.io/github/release-date/appercept/Delphi-WebMocks)
 Library for stubbing and setting expectations on HTTP requests in Delphi with
